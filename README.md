@@ -5,7 +5,11 @@
   <h1> Algoritmisk handel med långsiktiga investeringsstrategier </h1>
 </div>
 
+Algorithmic trading with long-term investment strategies
+Development of an investment robot with concrete implementation of the concepts pair trading and Fibonacci retracements
+This system is an investment robot that has implemented pair trading and Fibonacci retracements. Pairs trading is an algorithm that is market neutral with the goal of always having positive returns while Fibonacci retracements are designed to generate higher
 
+The development of this robot took place as a master's project at Chalmers University of Technology with the Department of Computer and Information Technology and the supervisor Arne Linde.
 
 
 
